@@ -1,0 +1,6 @@
+{
+  "name": "그레이드별 견적·마진 계산기",
+  "description": "수량·할인율·환율 기반 실시간 마진 검증 및 MOQ·최소마진 사전 경고 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
